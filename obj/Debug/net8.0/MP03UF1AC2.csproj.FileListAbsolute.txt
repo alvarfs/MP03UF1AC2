@@ -1,0 +1,15 @@
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\bin\Debug\net8.0\MP03UF1AC2.exe
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\bin\Debug\net8.0\MP03UF1AC2.deps.json
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\bin\Debug\net8.0\MP03UF1AC2.runtimeconfig.json
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\bin\Debug\net8.0\MP03UF1AC2.dll
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\bin\Debug\net8.0\MP03UF1AC2.pdb
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.AssemblyInfoInputs.cache
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.AssemblyInfo.cs
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.csproj.CoreCompileInputs.cache
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.sourcelink.json
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.dll
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\refint\MP03UF1AC2.dll
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.pdb
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\MP03UF1AC2.genruntimeconfig.cache
+D:\Users\alumno\Desktop\DAW\PROGRAMACIO\MP03UF1AC2\obj\Debug\net8.0\ref\MP03UF1AC2.dll
