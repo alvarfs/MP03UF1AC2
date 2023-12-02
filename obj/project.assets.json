@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "D:\\Users\\alumno\\.nuget\\packages\\": {}
+    "C:\\Users\\alvar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\alumno\\Desktop\\DAW\\PROGRAMACIO\\MP03UF1AC2\\MP03UF1AC2.csproj",
+      "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Escritorio\\GitHub\\MP03UF1AC2\\MP03UF1AC2.csproj",
       "projectName": "MP03UF1AC2",
-      "projectPath": "D:\\Users\\alumno\\Desktop\\DAW\\PROGRAMACIO\\MP03UF1AC2\\MP03UF1AC2.csproj",
-      "packagesPath": "D:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\alumno\\Desktop\\DAW\\PROGRAMACIO\\MP03UF1AC2\\obj\\",
+      "projectPath": "C:\\Users\\alvar\\OneDrive\\Escritorio\\GitHub\\MP03UF1AC2\\MP03UF1AC2.csproj",
+      "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alvar\\OneDrive\\Escritorio\\GitHub\\MP03UF1AC2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
